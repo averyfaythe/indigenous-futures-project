@@ -1,4 +1,8 @@
-# indigenous-futures-project
+# All's Fair..?
+
+Welcome to the `All's Fair` web application! Here, users can live out their dreams of colonial subjugation of native peoples and lands through a delightful dating app style interface from the perspective of everyone's favorite imperial empire, the United States of America.  :us: :eagle: Explore the profiles of resource-rich nations and add them to your collection- just as the Creator has commanded you- from the comfort of your home. With divine inspiration and seemingly indirect consequences of your actions, you can have all the power and fun with none of the guilt! :smiling_face_with_three_hearts: Just click the logo below to begin your conquests :wink:
+
+<a href="src/index.html">![All's Fair Logo](assets/myImages/logo.png)</a>
 
 ## Notes & Planning
 * "Dating" app for colonizing countries from perspective of America
