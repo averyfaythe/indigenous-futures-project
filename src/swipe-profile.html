@@ -86,7 +86,7 @@
 <!-- START navigation -->
 <nav class="fix_topscroll logo_on_fixed  topbar navigation">
   <div class="nav-wrapper container">
-    <a id="logo-container" href="index.html" class=" brand-logo " ><img src="assets/myImages/logo-top-space.png" width="60.0pt"></a>    
+    <a id="logo-container" href="index.md" class=" brand-logo " ><img src="assets/myImages/logo-top-space.png" width="60.0pt"></a>    
     
     <a href="#" data-target="slide-nav" class="waves-effect waves-circle navicon sidenav-trigger show-on-large right"><i class="app-icon-menu61"></i></a>
 
@@ -127,14 +127,6 @@
   <li class="menulinks">
     <ul class="collapsible">
       <!-- Menu Data Start-->
-    
-      <li class="lvl1 ">
-        <div class=" waves-effect   index " >
-            <a href="index.html">
-            <i class="mdi mdi-home"></i>
-            <span class="title">Home</span></a>
-        </div>
-    </li>
 
     <li class="lvl1 ">
         <div class=" waves-effect   index " >
@@ -204,59 +196,59 @@
         </div>
       
         <div class="tinder--cards">
-          <div class="tinder--card">
+          <div class="tinder--card colony" id="phil">
             <img src="assets/myImages/phil-land.jpg">
             <h3>The Philippines</h3>
-            <p>...</p>
+            <p>Be a hero and rescue the Filipinos from Spain!</p>
             <img src="assets/myImages/phil-above.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Ready for liberation ;)</p>
             <img src="assets/myImages/phil-map.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Come get all the war and glory with none of the shame</p>
           </div>
-          <div class="tinder--card">
+          <div class="tinder--card colony" id="pr">
             <img src="assets/myImages/pr-land.jpg">
             <h3>Puerto Rico</h3>
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>A gorgeous Spanish toy for the taking &lt;3</p>
             <img src="assets/myImages/pr-above.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Plenty of inhabitants to coax into becoming soldiers...</p>
             <img src="assets/myImages/pr-map.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>...or even use as chemical weapons guinea pigs!</p>
           </div>
-          <div class="tinder--card">
+          <div class="tinder--card colony" id="guam">
             <img src="assets/myImages/guam-cliff.jpg">
             <h3>Guam</h3>
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Could be the tip to your spear</p>
             <img src="assets/myImages/guam-above.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Nothing toxic here! (yet)</p>
             <img src="assets/myImages/guam-map.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>You could be all about that ~military~ base</p>
           </div>
-          <div class="tinder--card">
+          <div class="tinder--card colony" id="sam">
             <img src="assets/myImages/asamoa-land.jpg">
             <h3>Eastern Samoa</h3>
-            <p>Make your own <em>American Samoa</em> paradise</p>
+            <p>Make it your own <b>AMERICAN</b> Samoa</p>
             <img src="assets/myImages/asamoa-above.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Could do with a smidge of classist citizenship</p>
             <img src="assets/myImages/asamoa-map.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Your fun, new paradise awaits!</p>
           </div>
-          <div class="tinder--card">
+          <div class="tinder--card" id="usvi">
             <img src="assets/myImages/usvi-beach.jpg">
             <h3>Virgin Islands</h3>
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Ready to be ravaged by a strong nation like you</p>
             <img src="assets/myImages/usvi-above.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Your exciting piece of the Caribbean</p>
             <img src="assets/myImages/asamoa-map.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Settle down with the latest land for the taking :D</p>
           </div>
-          <div class="tinder--card">
+          <div class="tinder--card" id="mi">
             <img src="assets/myImages/mi-land.jpg">
             <h3>Mariana Islands</h3>
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Get hot and steamy in the perfect area for furthering climate change</p>
             <img src="assets/myImages/mi-above.jpg">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Plug up natural resources with you military might!</p>
             <img src="assets/myImages/mi-map.png">
-            <p>This is a demo for Tinder like swipe cards</p>
+            <p>Have fun committing cultural genocide :3</p>
           </div>
           <div class="end--card">
             <h3>See</h3>
@@ -318,7 +310,6 @@
 
 <!-- FROM Tinder swipe cards PROJECT -->
 <script src='https://hammerjs.github.io/dist/hammer.min.js'></script>
-<!--<script  src="assets/js/card-script.js"></script>-->
 
 <script>
     'use strict';
@@ -327,6 +318,7 @@
     var allCards = document.querySelectorAll('.tinder--card');
     var nope = document.getElementById('nope');
     var love = document.getElementById('love');
+
     var colonized = 0;
     
     function initCards(card, index) {
@@ -372,6 +364,7 @@
             var moveOutWidth = document.body.clientWidth;
             var keep = Math.abs(event.deltaX) < 80 || Math.abs(event.velocityX) < 0.5;
 
+            var currCard = event.target;
             event.target.classList.toggle('removed', !keep);
 
             if (keep) {
@@ -385,7 +378,23 @@
                 var yMulti = event.deltaY / 80;
                 var rotate = xMulti * yMulti;
 
-                if (event.deltaX > 0) { colonized += 1; }
+                var id = currCard.id;
+                if (event.deltaX > 0) { 
+                    colonized += 1;
+                    if (id == "phil") { localStorage.setItem('show-phil', true); }
+                    if (id == "pr")   { localStorage.setItem('show-pr'  , true); }
+                    if (id == "guam") { localStorage.setItem('show-guam', true); }
+                    if (id == "usvi") { localStorage.setItem('show-usvi', true); }
+                    if (id == "mi")   { localStorage.setItem('show-mi'  , true); }
+                    if (id == "sam")  { localStorage.setItem('show-sam' , true); }
+                } else {
+                    if (id == "phil") { localStorage.setItem('show-phil', false); }
+                    if (id == "pr")   { localStorage.setItem('show-pr'  , false); }
+                    if (id == "guam") { localStorage.setItem('show-guam', false); }
+                    if (id == "usvi") { localStorage.setItem('show-usvi', false); }
+                    if (id == "mi")   { localStorage.setItem('show-mi'  , false); }
+                    if (id == "sam")  { localStorage.setItem('show-sam' , false); }
+                }
                 localStorage.setItem('colonized', colonized);
 
                 event.target.style.transform = 'translate(' + toX + 'px, ' + (toY + event.deltaY) + 'px) rotate(' + rotate + 'deg)';

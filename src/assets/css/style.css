@@ -242,3 +242,7 @@ TABLE OF CONTENTS:
 @import url("_actions.css");
 @import url("_menu-effect.css");
 @import url("_site-darkmode.css");
+
+.colony-hidden {
+    opacity: 0;
+}

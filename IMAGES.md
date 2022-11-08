@@ -1,0 +1,24 @@
+Listed below are the links from which all images were sourced. The application logo incorporated two of these such images.
+* https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog1897362/Boston_Tea_Party-crop.jpg
+* https://www.essentialcivilwarcurriculum.com/assets/images/site/topics/ECWC%20TOPIC%20Manifest%20Destiny%20PIC%20Gast%20American%20Progress.jpg
+* https://m.media-amazon.com/images/I/713Kg3RH3tL.jpg
+* https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTauYswJ7Hdd-KpqJ1CVsT2SXqvs6F1g9xRKg&usqp=CAU
+* https://toppng.com/free-image/shotgun-png-PNG-free-PNG-Images_18308
+* https://cdn.britannica.com/59/93359-050-040EBC62/Slopes-Two-Lovers-Leap-Guam-Tumon-Bay.jpg
+* https://s.abcnews.com/images/International/Guam03-gty-jrl-170809_4x5_992.jpg
+* https://www.coris.noaa.gov/portals/images/guam_detail2_400.jpg
+* https://www.planetware.com/wpimages/2019/12/united-states-virgin-islands-in-pictures-beautiful-places-to-photograph-trunk-bay-beach.jpg
+* https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/hill-view-StCroix-JessicaWiseman-TNC.jpg?crop=532%2C0%2C2934%2C1614&wid=4000&hei=2200&scl=0.7336363636363636
+* https://www.nasa.gov/sites/default/files/images/148579main_image_feature_571_ys_full.jpg
+* https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Topographic_map_of_Puerto_Rico.jpg/640px-Topographic_map_of_Puerto_Rico.jpg
+* https://www.privateislandsonline.com/uploads/resize/_3014_6269b6675f72d.jpg-1074-822.jpg
+* https://media.cntraveler.com/photos/5d4ad62f3ff33100080a9123/5:4/w_2810,h_2248,c_limit/01-PuertoRico-2019-ElYunqueNationalForest-GettyImages-985510974.jpg
+* https://www.mapsland.com/maps/oceania/american-samoa/large-satellite-map-of-tutuila-island-american-samoa.jpg
+* https://i0.wp.com/americanfieldtrip.com/wp-content/uploads/2018/05/american-samoa-67.jpg?fit=1000%2C667&ssl=1
+* https://s3.amazonaws.com/iexplore_web/images/assets/000/011/729/full/History___Culture_AS.jpg?1461176973
+* https://www.mapsland.com/maps/asia/philippines/detailed-relief-map-of-philippines-small.jpg
+* https://i.natgeofe.com/n/8632bc0a-6c1c-4f6c-80da-7aeda6ec47c5/Archipelago%20Philippines.jpg?w=1200
+* https://cdn.cnn.com/cnnnext/dam/assets/220815224524-philippines-el-nido-full-169.jpg
+* https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/USA_Northern_Mariana_Islands_location_map.svg/500px-USA_Northern_Mariana_Islands_location_map.svg.png
+* https://pacificislandsclimate.files.wordpress.com/2016/03/tinian_island_pacaf_2013.jpg
+* https://www.visittheusa.com/sites/default/files/styles/state_hero_l/public/images/hero_media_image/2016-12/271b5a9efa35deffff772d134dae96fc.jpeg?itok=yYeS-Zcm

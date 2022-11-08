@@ -69,7 +69,7 @@
     <header role="banner" class="navbar navbar-inverse navbar-fixed-top bs-docs-nav">
         <div class="container">
             <div class="navbar-header">
-                <a href="index.html" target="_blank" class="navbar-brand">All's Fair..? - Critiquing the imperialist</a>
+                <a href="profile.html" target="_blank" class="navbar-brand">All's Fair..? - Critiquing the imperialist</a>
             </div>
         </div>
     </header>
@@ -112,6 +112,13 @@
                     <p class="lead">
                         ...
                     </p>
+                    <br>
+                    <p>
+                        Works Cited:
+                        <ul>
+                            <li><a href="">Source</a></li>
+                        </ul>
+                    </p>
                 </section>
 
                 <section id="guam">
@@ -120,6 +127,13 @@
                     </div>
                     <p class="lead">
                         ...
+                    </p>
+                    <br>
+                    <p>
+                        Works Cited:
+                        <ul>
+                            <li><a href="">Source</a></li>
+                        </ul>
                     </p>
                 </section>
 
@@ -130,6 +144,13 @@
                     <p class="lead">
                         ...
                     </p>
+                    <br>
+                    <p>
+                        Works Cited:
+                        <ul>
+                            <li><a href="">Source</a></li>
+                        </ul>
+                    </p>
                 </section>
 
                 <section id="puerto-rico">
@@ -138,6 +159,13 @@
                     </div>
                     <p class="lead">
                         ...
+                    </p>
+                    <br>
+                    <p>
+                        Works Cited:
+                        <ul>
+                            <li><a href="">Source</a></li>
+                        </ul>
                     </p>
                 </section>
 
@@ -148,6 +176,13 @@
                     <p class="lead">
                         ...
                     </p>
+                    <br>
+                    <p>
+                        Works Cited:
+                        <ul>
+                            <li><a href="">Source</a></li>
+                        </ul>
+                    </p>
                 </section>
 
                 <section id="philippines">
@@ -157,6 +192,14 @@
                     <p class="lead">
                         ...
                     </p>
+                    <br>
+                    <p>
+                        Works Cited:
+                        <ul>
+                            <li><a href="">Source</a></li>
+                        </ul>
+                    </p>
+
                 </section>
 
                <section id="thanks">
@@ -189,12 +232,19 @@
     $('.bs-sidenav a').smoothScroll();
     window.prettyPrint && prettyPrint();
     </script>
-    <!--<script src="assets/js/card-script.js"></script>-->
+    
     <script>
         const colonizedVal = localStorage.getItem('colonized');
         console.log(colonizedVal);
         document.getElementById("colVal").innerHTML = colonizedVal;
+
         localStorage.setItem('colonized', 0);
+        localStorage.setItem('show-phil', false);
+        localStorage.setItem('show-pr'  , false);
+        localStorage.setItem('show-guam', false);
+        localStorage.setItem('show-usvi', false);
+        localStorage.setItem('show-mi'  , false);
+        localStorage.setItem('show-sam' , false);
     </script>
 </body>
 

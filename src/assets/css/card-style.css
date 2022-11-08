@@ -112,8 +112,9 @@ FIX
     z-index: 3000;
 }
 
-.tinder--card p {
+.tinder--card p, .tinder--card b {
   margin-top: 24px;
+  margin-bottom: 24px;
   font-size: 20px;
   padding: 0 16px;
   pointer-events: none;
