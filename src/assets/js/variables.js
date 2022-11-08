@@ -1,5 +1,5 @@
 var defaultval = {
-	theme: 'teal',
+	theme: 'red',
 	header: 'light',
 	header_align: 'center',
 	menu: 'light',

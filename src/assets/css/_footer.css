@@ -1,7 +1,7 @@
 /*----------------------------------------
   Footer
 ------------------------------------------*/
-.page-footer{
+.page-footer, .pf{
   /* background: var(--dark-800); */
   padding-bottom: 60px;
   position: relative;
@@ -86,7 +86,7 @@
   color: #ffffff;
 }
 
-.page-footer .footer-copyright{
+.pf .footer-copyright{
   background: rgba(50,50,50,0.3);
   position: absolute;
   width: 100%;

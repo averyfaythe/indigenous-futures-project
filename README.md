@@ -36,7 +36,8 @@ Welcome to the `All's Fair` web application! Here, users can live out their drea
 ### Works Cited
 * The `Odis: PWA Mobile App (Progressive Web App)` template, located at the [Evato Elements website](https://elements.envato.com/odis-pwa-mobile-app-progressive-web-app-PZJASV8), was used as the basis for the web app interface. The license applicable to this software template, [the Envato License](ENVATO_LICENSE), is referenced within this repository.
 * The `Tinder swipe cards` project, located at the [Code Pen website](https://codepen.io/RobVermeer/pen/japZpY), by Rob Vermeer was used to simulate the profile card swiping effect for the web app. The license appliicable to this software, [the MIT License](MIT_LICENSE), is located in this repository.
-* [NPR Transcript from interview with Daniel Immerwahr: The History Of American Imperialism, From Bloody Conquest To Bird Poop](https://www.npr.org/2019/02/18/694700303/the-history-of-american-imperialism-from-bloody-conquest-to-bird-poop)
+* [NPR Transcript from interview with Daniel Immerwahr: The History Of American Imperialism, From Bloody Conquest To Bird Poop (February 18, 2019)](https://www.npr.org/2019/02/18/694700303/the-history-of-american-imperialism-from-bloody-conquest-to-bird-poop)
+* [ICT article by Steven Paul McSloy, Hughes Hubbard, and Reed LLP: ‘Because the Bible tells me so’: Manifest Destiny and American Indians (September 12, 2018)](https://indiancountrytoday.com/archive/because-the-bible-tells-me-so-manifest-destiny-and-american-indians)
 
 
 ## Presentation Points
