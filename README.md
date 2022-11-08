@@ -11,6 +11,7 @@ Welcome to the `All's Fair` web application! Here, users can live out their drea
 * [ICT article by Steven Paul McSloy, Hughes Hubbard, and Reed LLP: "‘Because the Bible tells me so’: Manifest Destiny and American Indians" (September 12, 2018)](https://indiancountrytoday.com/archive/because-the-bible-tells-me-so-manifest-destiny-and-american-indians), which is linked in several locations through the project.
 * [Not Even Past article by Mark Sheaves: "Playing Indian, by Philip Deloria (1999)" (October 24, 2016)](https://notevenpast.org/playing-indian-by-philip-deloria-1999/), which is linked on the [Profile page](profile.html).
 * All works used in the development of the [Their Futures page](futures.html) are listed under the associated `Works Cited` heading in each section of that page.
+* [Ballotpedia's article: "United States territorial aquisitions"](https://ballotpedia.org/United_States_territorial_acquisitions) was heavily referenced during the project's construction.
 
 # Analytic Short Essay
 inspired by Craig Santos Perez' *Unincorporated Territory* series- wanted something artsy, satirical, and exploring the hardly discussed US territories
