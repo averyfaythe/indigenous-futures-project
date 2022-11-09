@@ -182,10 +182,14 @@ h4.sec-tit{
 	margin-left: -10px !important;
 	top: 36px;
 }
-.white-text .sec-tit:after,
 .white-text .sec-tit:before,
-.sec-tit.white-text:after,
 .sec-tit.white-text:before {
+	background: #ffffff;
+	opacity: 0;
+}
+
+.white-text .sec-tit:after,
+.sec-tit.white-text:after {
 	background: #ffffff;
 	opacity: 0.8;
 }

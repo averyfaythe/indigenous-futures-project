@@ -12,7 +12,7 @@
 
 .tinder {
   width: 100vw;
-  height: 1550px;
+  height: 1650px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
@@ -75,7 +75,7 @@ FIX
   display: inline-block;
   width: 90vw;
   max-width: 400px;
-  height: 1400px;
+  height: 1500px;
   background: #FFFFFF;
   padding-bottom: 40px;
   border-radius: 8px;
@@ -104,6 +104,10 @@ FIX
   padding: 0 16px;
   pointer-events: none;
 }
+
+.tinder--card h5{
+    pointer-events: none;
+  }
 
 .end--card a {
     margin-top: 32px;
