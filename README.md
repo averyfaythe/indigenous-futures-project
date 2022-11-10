@@ -2,7 +2,7 @@
 
 Welcome to the `All's Fair` web application! Here, users can live out their dreams of colonial subjugation of native peoples and lands through a delightful dating app style interface from the perspective of everyone's favorite imperial empire, the United States of America.  :us: :eagle: Explore the profiles of resource-rich nations and add them to your collection- just as the Creator has commanded you- from the comfort of your home. With divine inspiration and seemingly indirect consequences of your actions, you can have all the power and fun with none of the guilt! :smiling_face_with_three_hearts: Just click the logo below to begin your conquests :wink:
 
-<a href="index.html">![All's Fair Logo](assets/myImages/logo.png)</a>
+<a href="https://averyfaythe.github.io/indigenous-futures-project/">![All's Fair Logo](assets/myImages/logo.png)</a>
 
 # Media Integrated
 * The `Odis: PWA Mobile App (Progressive Web App)` template, located at the [Evato Elements website](https://elements.envato.com/odis-pwa-mobile-app-progressive-web-app-PZJASV8), was used as the basis for the web app interface. The license applicable to this software template, [the Envato License](docs/ENVATO_LICENSE), is referenced within this repository's `docs` folder.
