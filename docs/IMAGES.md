@@ -1,4 +1,4 @@
-Listed below are the links from which all images were sourced. The application logo incorporated two of these such images.
+Listed below are the links from which all images (except those on the [Their Futures](../futures.html) page) were sourced. The application logo incorporate two of these images.
 * https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog1897362/Boston_Tea_Party-crop.jpg
 * https://www.essentialcivilwarcurriculum.com/assets/images/site/topics/ECWC%20TOPIC%20Manifest%20Destiny%20PIC%20Gast%20American%20Progress.jpg
 * https://m.media-amazon.com/images/I/713Kg3RH3tL.jpg

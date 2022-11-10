@@ -24,12 +24,11 @@ Welcome to the `All's Fair` web application! Here, users can live out their drea
   * Some territory images don't render correctly
 * Primary color not correctly set sometimes (cyan instead of red)
 * Colonies page does not update correctly
-* Profile page seems incomplete
 
 
 # Documentation
 Within the `docs` directory, two documents are available:
-* [Decolonial_Futures_Project.docx](docs/Decolonial_Futures_Project.docx) gives a brief description of the project as well as a QR code to the hosted website (expired on November 16, 2022) and some project screenshots (all of which are also available within the `docs/report-images` directory).
+* [Decolonial_Futures_Project.docx](docs/Decolonial_Futures_Project.docx) gives a brief description of the project as well as a QR code to the hosted website (expired on November 16, 2022).
 * [Decolonial_Futures_Essay.docx](docs/Decolonial_Futures_Essay.docx) is an analytic short essay about the project and the concepts it engages.
 
 
